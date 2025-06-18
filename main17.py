@@ -26,3 +26,4 @@ a=[1,2,3,4]
 b=[2,3,4,5]
 u=[i for i in a for j in b if i==j]
 print(u)
+print(u)
